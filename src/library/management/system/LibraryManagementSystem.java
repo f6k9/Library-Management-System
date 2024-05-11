@@ -2,12 +2,6 @@ package library.management.system;
 
 import java.util.Scanner;
 
-/*
-* Name : Faris Ahmad Khayat
-* ID : 2337100
-* Section Number : CS8
-
- */
 public class LibraryManagementSystem {
 
     public static void main(String[] args) {
